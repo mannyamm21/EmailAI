@@ -37,7 +37,7 @@ Install dependencies
 bash
 Copy code
 npm install
-# or
+ or
 yarn install
 Set up environment variables
 Create a .env file in the root directory and populate it with the required configuration variables (see Configuration).
